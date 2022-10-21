@@ -172,11 +172,6 @@ nav a:hover {
 	margin-top: 1rem;
 }
 
-.flex {
-	display: flex;
-	border: 1px solid red;
-}
-
 /* About Styles
 -----------------------*/
 .heading {
