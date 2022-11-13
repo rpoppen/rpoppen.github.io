@@ -397,8 +397,6 @@ div.cards {
 	display: inline-block;
 	font-size: 35px;
 	border: 2px solid black;
-	writing-mode: vertical-rl;
-	text-orientation: sideways;
 	padding: 1%;
 	color: #F8F7FF;
 }
