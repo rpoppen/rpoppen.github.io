@@ -368,13 +368,13 @@ div.cards {
 
 /* Project Styles
 ---------------------*/
-.bookcase {
+/*.bookcase {
 	width: calc(100vw - 2em);
 	border: 5px solid #563440;
 	margin: 0 auto;
 	background-color: #563440;
 	box-sizing: border-box;
-}
+}*/
 
 .column {
 	float: left;
@@ -383,7 +383,7 @@ div.cards {
 	padding: 0 8px;
 }
 	
-.card1 {
+.project {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   margin: 8px;
 }
