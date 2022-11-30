@@ -372,6 +372,10 @@ div.cards {
 display: flex;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   margin: 8px;
+background: #7A3b69;
+	color: #F8F7FF;
+	margin: 2.5%;
+	width: 45%;
 }
 
 
